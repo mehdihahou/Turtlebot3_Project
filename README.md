@@ -1,4 +1,4 @@
-[TURTLEBOT PROJECT](# Read Me Template)
+# Read Me Template
 
 ![Project Image](https://user-images.githubusercontent.com/43727159/145706210-607af6d7-92bc-446d-8a46-23e7bfc8c91c.png)
 
@@ -13,7 +13,7 @@ Since the launch of ROS in 2007, a lot has changed in the robotics and ROS commu
 You're sections headers will be used to reference location of destination.
 
 - [WHY ROS2](#WHY-ROS2)
-- [The basic command in ROS2](##The-basic-commands-ROS2-short-"Tutorial":)
+- [The basic command in ROS2](##the-basic-commands-ros2-short-"tutorial":)
 - [The Project: TurtleBot 3](#Project:-TurtleBot-3)
 - [Control the robot with the keyboard](#To-Control-the-robot-with-thekeyboard)
 - [Run The SLAM](#Run-the-SLAM-node:)

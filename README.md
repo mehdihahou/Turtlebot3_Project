@@ -12,14 +12,14 @@ Since the launch of ROS in 2007, a lot has changed in the robotics and ROS commu
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
 
-- [WHY ROS2](#WHY ROS2)
-- [The basic command in ROS2](##The basic  commands ROS2 short "Tutorial":)
-- [The Project: TurtleBot 3](#Project: TurtleBot 3)
-- [Control the robot with the keyboard](#### To Control the robot with thekeyboard)
-- [Run The SLAM](#### Run the SLAM node:)
-- [Launch the camera](### To launch the camera:)
+- [WHY ROS2](#WHY-ROS2)
+- [The basic command in ROS2](#The-basic-commands-ROS2-short-"Tutorial":)
+- [The Project: TurtleBot 3](#Project:-TurtleBot-3)
+- [Control the robot with the keyboard](#To-Control-the-robot-with-thekeyboard)
+- [Run The SLAM](#Run-the-SLAM-node:)
+- [Launch the camera](#To-launch-the-camera:)
 - [Author Info](#author-info)
-- [Special THANKS](## Special THANKS:)
+- [Special THANKS](#Special-THANKS:)
 
 ---
 

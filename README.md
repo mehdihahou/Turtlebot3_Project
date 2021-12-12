@@ -19,7 +19,7 @@ You're sections headers will be used to reference location of destination.
 - [Run The SLAM](#Run-the-SLAM-node:)
 - [Launch the camera](#To-launch-the-camera:)
 - [Author Info](#author-info)
-- [Special THANKS](#special-THANKS:)
+- [Special THANKS](#special-thanks:)
 
 ---
 
